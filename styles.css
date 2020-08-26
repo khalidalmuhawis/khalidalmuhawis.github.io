@@ -1,0 +1,11 @@
+.name{
+background-color:SlateBlue;
+padding-left: 750px;
+font-family: "Lucida Console", Courier, monospace;
+}
+
+.border{
+  border: 2px solid black;
+  font-style: italic;
+  background-color: #e6f5ff;
+}
