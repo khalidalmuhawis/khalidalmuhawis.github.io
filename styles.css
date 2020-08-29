@@ -1,11 +1,6 @@
-.name{
-background-color:SlateBlue;
-padding-left: 750px;
-font-family: "Lucida Console", Courier, monospace;
-}
 
-.border{
-  border: 2px solid black;
-  font-style: italic;
-  background-color: #e6f5ff;
+body{
+  background: url("https://cdn2.vectorstock.com/i/1000x1000/46/41/black-background-with-banner-vector-18184641.jpg")
+
+
 }
